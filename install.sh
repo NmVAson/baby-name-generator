@@ -1,0 +1,1 @@
+pip install -q numpy tfds-nightly tensorflow tensorflow_hub tensorflow_datasets matplotlib pandas sklearn
